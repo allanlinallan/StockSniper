@@ -75,4 +75,12 @@ Miniconda 安裝包已內含 Python 核心，因此您「不需要」另外去 P
 使用說明檔 (README).txt
 
 
+
+<img width="1898" height="905" alt="image" src="https://github.com/user-attachments/assets/bef2d231-05cc-47d2-8323-602406852341" />
+
+<img width="1531" height="478" alt="image" src="https://github.com/user-attachments/assets/7f5bd6eb-ba9f-49d8-b922-e9d902bc8a16" />
+
+
+
+
 ⚠️ 免責聲明 (Disclaimer)： 本專案僅供程式交易研究與資訊整理之用，不構成任何投資建議。使用者應自行承擔投資風險，作者不負任何盈虧之責。
